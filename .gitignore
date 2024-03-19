@@ -1,5 +1,0 @@
-*.c
-*.py
-*.php
-!sridhar.py
-[aeiou]*.c
